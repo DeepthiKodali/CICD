@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Creating it to demo CI/CD</description>
+        <device_type>browser</device_type>
+        <hint>Creating it to demo CI/CD</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>deepthi</sys_created_by>
+        <sys_created_on>2024-01-11 14:48:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bee74ea71b6f3110d20b9641b24bcb1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DemoCICD</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DemoCICD" source="x_prna_democicd">33670ae71b6f3110d20b9641b24bcbe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoCICD">33670ae71b6f3110d20b9641b24bcbe7</sys_scope>
+        <sys_update_name>sys_app_application_bee74ea71b6f3110d20b9641b24bcb1e</sys_update_name>
+        <sys_updated_by>deepthi</sys_updated_by>
+        <sys_updated_on>2024-01-11 14:48:52</sys_updated_on>
+        <title>DemoCICD</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
