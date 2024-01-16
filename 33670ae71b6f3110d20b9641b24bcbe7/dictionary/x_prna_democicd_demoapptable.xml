@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="e162cf811bf73d10d20b9641b24bcbcc" label="Demoapptable" max_length="40" name="x_prna_democicd_demoapptable" type="collection"/>
+    <element db_object_id="e162cf811bf73d10d20b9641b24bcbcc" label="Demoapptable" max_length="40" name="x_prna_democicd_demoapptable" type="collection">
+        <element label="Start date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Done" value="1"/>
+                <element inactive_on_update="false" label="In Progress" value="2"/>
+                <element inactive_on_update="false" label="New" value="3"/>
+                <element inactive_on_update="false" label="Ready" value="4"/>
+            </choice>
+        </element>
+    </element>
 </database>
