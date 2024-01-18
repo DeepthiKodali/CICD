@@ -27,6 +27,7 @@ jobs:
           nowPassword: ${{ secrets.NOW_PASSWORD }}
           nowSourceInstance: ${{ secrets.NOW_DEV_INSTANCE }}
           appSysID: ${{ secrets.NOW_APP_SYSID }}
+          appScope: ${{ secrets.NOW_APP_SCOPE }}
 
       - name: ServiceNow CI/CD Publish App
         id: publish_app
