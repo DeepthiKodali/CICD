@@ -19,7 +19,7 @@ jobs:
     steps:
 
       - name: ServiceNow CI/CD Apply Changes
-        uses: ServiceNow/sncicd-apply-changes@2.0.1
+        uses: ServiceNow/sncicd-apply-changes@1.2.0
         env:
           nowUsername: ${{ secrets.NOW_USERNAME }}
           nowPassword: ${{ secrets.NOW_PASSWORD }}
