@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_democicd_securitymanagement" name="sn_dd_democicd_securitymanagement">108defca1b373550d20b9641b24bcbe1</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>deepthi</sys_created_by>
+        <sys_created_on>2024-01-19 16:37:31</sys_created_on>
+        <sys_id>9c8defca1b373550d20b9641b24bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>108defca1b373550d20b9641b24bcbe1</sys_name>
+        <sys_package display_value="DemoCICD" source="x_prna_democicd">33670ae71b6f3110d20b9641b24bcbe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoCICD">33670ae71b6f3110d20b9641b24bcbe7</sys_scope>
+        <sys_update_name>sys_embedded_help_role_9c8defca1b373550d20b9641b24bcbe1</sys_update_name>
+        <sys_updated_by>deepthi</sys_updated_by>
+        <sys_updated_on>2024-01-19 16:37:31</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

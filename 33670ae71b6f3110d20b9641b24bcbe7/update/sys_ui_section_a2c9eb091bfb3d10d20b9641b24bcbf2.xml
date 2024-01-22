@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a2c9eb091bfb3d10d20b9641b24bcbf2" sys_domain="global" table="x_prna_democicd_demoapptable" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>0</position>
+            <sys_created_by>deepthi</sys_created_by>
+            <sys_created_on>2024-01-16 13:47:40</sys_created_on>
+            <sys_id>d3d9a38d1bfb3d10d20b9641b24bcbf9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prna_democicd_demoapptable" sys_domain="global" view="Default view">a2c9eb091bfb3d10d20b9641b24bcbf2</sys_ui_section>
+            <sys_updated_by>deepthi</sys_updated_by>
+            <sys_updated_on>2024-01-16 13:47:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>1</position>
+            <sys_created_by>deepthi</sys_created_by>
+            <sys_created_on>2024-01-16 13:47:40</sys_created_on>
+            <sys_id>1fd9a38d1bfb3d10d20b9641b24bcbf9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prna_democicd_demoapptable" sys_domain="global" view="Default view">a2c9eb091bfb3d10d20b9641b24bcbf2</sys_ui_section>
+            <sys_updated_by>deepthi</sys_updated_by>
+            <sys_updated_on>2024-01-16 13:47:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>2</position>
+            <sys_created_by>deepthi</sys_created_by>
+            <sys_created_on>2024-01-16 13:49:56</sys_created_on>
+            <sys_id>946ae3cd1bfb3d10d20b9641b24bcb2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prna_democicd_demoapptable" sys_domain="global" view="Default view">a2c9eb091bfb3d10d20b9641b24bcbf2</sys_ui_section>
+            <sys_updated_by>deepthi</sys_updated_by>
+            <sys_updated_on>2024-01-16 13:49:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>deepthi</sys_created_by>
+            <sys_created_on>2024-01-16 13:50:43</sys_created_on>
+            <sys_id>bf8ae38d1bfb3d10d20b9641b24bcb42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prna_democicd_demoapptable" sys_domain="global" view="Default view">a2c9eb091bfb3d10d20b9641b24bcbf2</sys_ui_section>
+            <sys_updated_by>deepthi</sys_updated_by>
+            <sys_updated_on>2024-01-16 13:50:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_prna_democicd_demoapptable</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>deepthi</sys_created_by>
+            <sys_created_on>2024-01-16 13:47:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2c9eb091bfb3d10d20b9641b24bcbf2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_prna_democicd_demoapptable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DemoCICD" source="x_prna_democicd">33670ae71b6f3110d20b9641b24bcbe7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DemoCICD">33670ae71b6f3110d20b9641b24bcbe7</sys_scope>
+            <sys_update_name>sys_ui_section_a2c9eb091bfb3d10d20b9641b24bcbf2</sys_update_name>
+            <sys_updated_by>deepthi</sys_updated_by>
+            <sys_updated_on>2024-01-16 13:47:21</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

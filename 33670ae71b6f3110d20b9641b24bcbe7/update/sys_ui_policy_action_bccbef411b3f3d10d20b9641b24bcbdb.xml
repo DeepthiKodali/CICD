@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>start_date</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>deepthi</sys_created_by>
+        <sys_created_on>2024-01-16 13:56:06</sys_created_on>
+        <sys_id>bccbef411b3f3d10d20b9641b24bcbdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>start_date</sys_name>
+        <sys_package display_value="DemoCICD" source="x_prna_democicd">33670ae71b6f3110d20b9641b24bcbe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoCICD">33670ae71b6f3110d20b9641b24bcbe7</sys_scope>
+        <sys_update_name>sys_ui_policy_action_bccbef411b3f3d10d20b9641b24bcbdb</sys_update_name>
+        <sys_updated_by>deepthi</sys_updated_by>
+        <sys_updated_on>2024-01-16 13:56:06</sys_updated_on>
+        <table>x_prna_democicd_demoapptable</table>
+        <ui_policy display_value="set start date mandatory on ready">a99bab411b3f3d10d20b9641b24bcbea</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
